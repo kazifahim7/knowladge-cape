@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/pW76r1W/goran-ivos-y-BEy-YR8wps-unsplash.jpg",
+    "title": "How to get your first job as a self-taught programmer",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/8NPvwfx/taylor-8-Vt2haq8-NSQ-unsplash.jpg",
+    "posted_date": "2023-12-28 (14 days ago)",
+    "reading_time": 10,
+    "hashtags": ["#programming", "#javascript", "#webdevlopment"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/Gd8fH96/arnold-francisca-f77-Bh3in-Up-E-unsplash.jpg",
+    "title": "How to get your first job as a self-taught programmer",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co/8NPvwfx/taylor-8-Vt2haq8-NSQ-unsplash.jpg",
+    "posted_date": "2023-12-27 (14 days ago)",
+    "reading_time":8 ,
+    "hashtags": ["#technology", "#coding", "#software"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/s9nfkBR/nubelson-fernandes-g-Ts2w7bu3-Qo-unsplash.jpg",
+    "title": "How to get your first job as a self-taught programmer",
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co/8NPvwfx/taylor-8-Vt2haq8-NSQ-unsplash.jpg",
+    "posted_date": "2023-12-26 (14 days ago)",
+    "reading_time": 12 ,
+    "hashtags": ["#data science", "#machine learning", "#analytics"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/Rgz93Yg/joshua-woroniecki-lzh3h-Pt-Jz9c-unsplash.jpg",
+    "title": "How to get your first job as a self-taught programmer",
+    "author": "Robert Brown",
+    "author_img": "https://i.ibb.co/8NPvwfx/taylor-8-Vt2haq8-NSQ-unsplash.jpg",
+    "posted_date": "2023-12-25 (14 days ago)",
+    "reading_time": 7 ,
+    "hashtags": ["#design", "#UI/UX", "#creativity"]
+  }
+  
+]
